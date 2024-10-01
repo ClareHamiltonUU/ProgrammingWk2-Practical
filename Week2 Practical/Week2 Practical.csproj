@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\csf23hac\OneDrive - Ulster University\Computer Science\Year 2\OO Programming\Week2\Wk2Practical.cs" Link="Wk2Practical.cs" />
+  </ItemGroup>
+
 </Project>
